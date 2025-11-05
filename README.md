@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/profile/Sambhav122/solutions)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://blog-card-pre-view.netlify.app/)
 
 ## My process
 
@@ -67,6 +67,6 @@ I am going to focus more on **flexbox** and **grid**, these two are the main top
 
 ## Author
 
-- Website - [Sambhav](https://www.your-site.com)
+- Website - [Sambhav](https://blog-card-pre-view.netlify.app/)
 - Frontend Mentor - [@Sambhav](https://www.frontendmentor.io/profile/Sambhav122)
 
